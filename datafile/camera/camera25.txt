@@ -1,0 +1,45 @@
+Using the Olympus D-510 Zoom
+
+
+Record Mode
+
+The camera takes five seconds to extend the lens and "boot up" before you can start taking pictures. When you depress the shutter release halfway, focusing takes less than a second. Fully depressing the button results in a picture with minimal delay. Shot-to-shot speed is very good: you'll wait about 2-3 seconds between shots, depending on the quality setting. The zoom controls are a bit slow, but accurate.
+
+Both the TIFF and SQ modes can be set to different resolutions, including 1600 x 1200 (TIFF only), 1280 x 960, 1024 x 768, and 640 x 480.
+
+Unlike most cameras, thankfully, the D-510Z only locks up the camera for about 12-13 seconds after you take a TIFF. Some other cameras take up to a minute!
+
+Let's take a look at the menu choices available on the D-510Z now:
+
+Camera Setup 
+Spot Metering (ESP, Spot) 
+Exposure compensation (-2.0EV to +2.0EV in 1/2EV increments) 
+ISO (Auto, 100, 200, 400) 
+Digital zoom (on/off) 
+Panorama helper - only works with Olympus-branded SmartMedia cards 
+Picture Settings 
+White Balance (Auto, sunlight, cloudy, tungsten, fluorescent) 
+Record mode (TIFF, SHQ, HQ, SQ) 
+Sharpness (Hard, normal, soft) 
+Contract (High, normal, low) 
+Card Setup (erase all, format) 
+Settings 
+Rec View (on/off) - shows image after it's taken on LCD 
+File Naming (reset, auto file) 
+Clear settings (on/off) - retain settings after camera is powered off 
+Beep (on/off) 
+Set date/time 
+LCD brightness 
+In addition to these, there are a few other options only accessible via the buttons on the back of the camera:
+
+Flash (Auto, redeye reduction, fill-in flash, no flash, night scenes, night scenes + redeye reduction) 
+Self-timer (12 sec) 
+Sequential (continuous) shooting - speed not published, but I'd imagine it's around 2 frames/second, maybe a bit less. You can record up to 45 SQ shots in a row. TIFF mode not supported. 
+Okay, I've blabbed enough about menus, now let's talk about photos!
+
+The D-510Z did quite well in our usual macro test. It handled the strange lighting in the "lab" just fine, which seems to be a rarity these days. You can get as close as 20 cm (8") in macro mode.
+
+The camera did OK on the night shot test, but not wondrous. It didn't let let in as much light as I would've liked, and there's a fair amount of noise. Since you can't manually set the shutter speed or aperture, there's not much you can do about it. You might want to compare this shot to that from the similar Sony DSC-P50, which I took on the same night from the same location.
+
+Just like with its predecessors, the D-510's photo quality has been excellent for a low-cost camera. Don't just take my word for it -- take a glance at our photo gallery and decide for yourself.
+

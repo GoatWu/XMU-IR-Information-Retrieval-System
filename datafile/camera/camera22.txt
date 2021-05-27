@@ -1,0 +1,40 @@
+Using the Olympus C-3040Z
+
+
+Record Mode
+
+The camera takes approximately 5 seconds to extend the lens and "warm up" before you can start taking pictures. The C-3040Z is a pleasure to use: it's responsive and easy to use. The zoom has a slight delay between the time the button is pushed, and the lens starts moving. When you depress the shutter release halfway, it takes a little over half a second to lock focus. Depressing it fully will yield a photo almost instantly. In HQ mode, there's about a 2.5 second wait before you can take another shot.
+
+Here's a look at the many resolution and quality options on the C-3040Z, and how many fit on the included 16MB card, as well as a 64MB card (for reference sake).
+
+As you can see, there's a whole lot of choices. Do note that full-size TIFF files take over 20 seconds to write to the card, and you cannot take additional photos during that time.
+
+The C-3040Z uses the familiar overlay menu system seen on most other Olympus cameras. There may be changes on the horizon though: the new C-700 Ultra Zoom has a completely different menu system (which I'm not too excited about). Here's a look at the menu options on this camera and what they mean:
+
+AF/MF (auto or manual focus; also available by hitting "OK" button in record mode) 
+Drive (single shot, continuous shooting, self-timer, auto-bracketing) 
+White Balance (auto, presets, or full manual) 
+ISO (Auto, 100, 200, 400) 
+Flash Intensity (-2.0EV to +2.0EV in 1/3EV increments) 
+Flash Timing (1st or 2nd-curtain flash for night shots) 
+Digital Zoom (up to 5X, though resolution will be 640 x 480) 
+Function (special modes include black & white, sepia, white board, black board) 
+Voice comments (up to 4 sec of audio with each photo) 
+Panorama Helper (only on Olympus-branded SM cards) 
+Card Setup (format, erase all) 
+Mode Setup (more on this below) 
+Quality (see chart above) 
+A/S/M Mode (switches between aperture/shutter/full manual modes) 
+AE lock 
+Most of those should be familiar to DCRP readers. One which may not be is Mode Setup. What this does is let you configure the default values of the camera. For example, if you want the camera to start off with the zoom at 80mm, the flash off, and in TIFF mode, you can do that by editing the Custom menu in Mode Setup.
+
+Another feature of note is the C-3040Z's impressive sequential shooting mode: you can take up to 5 shots in a row at 3.3 frames/sec. Of course, this excludes TIFF files.
+
+As I alluded to in the list above, there's a full manual white balance mode on this camera (as you'd expect). You can shoot a piece of white paper (or whatever you want to be white) and get good results in most lighting conditions.
+
+Now onto our photo tests.
+
+The nightshot test came out great, with the C-3040Z's new super bright lens doing its job. The colors are right on (and much better than the C-700UZ) and there's no noise to speak of (just a little grain). 
+
+Photo quality overall was excellent. Olympus has had a lot of time to perfect the C-3040Z and it shows. The only thing I noticed was a bit of chromatic aberration (purple fringing) in one of my photos (see the "tunnel of trees" photo in the gallery). Don't let me tell you about the photo quality -- judge for yourself in the gallery.
+

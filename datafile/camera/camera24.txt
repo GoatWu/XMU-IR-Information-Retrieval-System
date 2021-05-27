@@ -1,0 +1,46 @@
+Using the Olympus D-520 Zoom
+
+
+Record Mode
+
+The camera takes about four seconds to extend the lens and "boot up" before you can start taking pictures. When you depress the shutter release halfway, focusing takes around one second. When you press the button all the way, there's noticeable (but brief) shutter lag before the photo is taken. Shot-to-shot speed is just average -- you'll wait nearly four seconds before you can take another photo (at the HQ setting).
+
+The resolution and quality options have been simplified on the D-520Z.
+
+The first thing I want to mention is that the SHQ resolution is not a typo. You get a few extra pixels in that mode, for some reason. The second thing, which is starting to be a trend (not just on Olympus cameras) is that the TIFF mode is going the way of the dodo bird. It's gone!
+
+The D-520Z uses the newest Olympus menu system, though it's not customizable like on some more expensive cameras. When you first start it, you're presented with four choices: 
+
+Drive (Single-shot, continuous shooting, movie mode) 
+Mode Menu - see below 
+Function (2-in-1, self-portrait, panorama) - more below 
+Quality - described in chart above 
+Continuous shooting mode will take a photo at a rate of 1.2 frames/second.
+
+The function menu has two new features that weren't seen on the D-510Z. The first is 2-in-1 mode, which lets you take two pictures and put them side-by-side into one. So for before and after pictures, perhaps? There's always a catch, and the catch here is that you can't do this in playback mode. So unless the after happens soon after the before, this won't work for that. Hopefully I'm totally wrong about this, but I can't see any other way to make it work. 
+
+Self-portrait mode lets you turn the camera on yourself and take a picture. The lens is locked at the wide-angle position.
+
+Let's take a look at the Mode Menu now. Another big change from the D-510Z -- fewer menu options!
+
+Camera Setup 
+Exposure compensation (-2.0EV to +2.0EV in 1/2EV increments) 
+Digital zoom (on/off) 
+Metering (ESP, Spot) 
+Picture Settings 
+White Balance (Auto, sunlight, cloudy, tungsten, fluorescent) 
+Card Setup (erase all, format) 
+Settings 
+All reset (on/off) - retain settings after camera is powered off 
+Beep (on/off) 
+Rec View (on/off) - shows image after it's taken on LCD 
+LCD brightness 
+Set date/time 
+If you go back and look at our D-510Z review, you can see how items like ISO, contrast, and sharpness have disappeared on this "improved" model!
+
+Though it's not as sharp as I would've liked, the D-520Z did a fair job with our standard macro test. The colors on the figure are spot-on. The focal range in macro mode is 20 - 50 cm.
+
+I was pleased to see that the D-520Z, despite its lack of manual controls, could still take a good low light shot. There is a lot of "salt and pepper" noise, though, but overall, not bad for a point-and-shoot.
+
+On the whole, the D-520Z's photo quality was right up there with the best 2 Megapixel cameras. The color is nice and saturated, and chromatic aberrations (purple fringing) is at a minimum. But don't take my word for it, check out the photo gallery and judge for yourself.
+

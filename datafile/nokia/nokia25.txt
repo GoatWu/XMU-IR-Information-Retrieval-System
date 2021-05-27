@@ -1,0 +1,15 @@
+Samsung to license Nokia¡¯s software for mobile devices 
+
+(August 30, 2002) 
+
+
+
+Samsung and Nokia today announced an agreement whereby Samsung will license Nokia¡¯s Series 60 platform for their next generation of smart phones. Series 60 is a comprehensive software platform for smart phones that Nokia licenses as a source code product to other mobile handset manufacturers. 
+ 
+¡°Series 60 is an ideal software platform for the advanced smart phones. The licensing model with access to the source-code will give us the opportunity to contribute to and influence the platform development. The platform¡¯s flexibility will enable us to maintain in our product portfolio a high competitive edge associated with Samsung brand,¡± says Mr. ByungDuck Cho, Senior Vice President, Mobile Communications R & D team, Samsung Electronics. 
+ 
+¡°We welcome Samsung to the community of Series 60 licensees and look forward to the innovations, unique mobile phones, and exciting applications Samsung will bring to the market with the Series 60 platform. Samsung will have a significant role to play in growing the smart phone market which utilizes open standards and technologies,¡± said Pertti Korhonen, executive vice president, Mobile Software, Nokia. "As the leading telecommunication vendor Nokia¡¯s aim is to increase the compatibility between smart phones, since ultimately that will lead to seamless and easy-to-use mobile services for consumers and corporations to enjoy.¡±
+ 
+The Series 60 platform is designed for mobile phone users with easy-to-use; one-hand operated handsets characterized by high-quality color displays, rich communications and enhanced applications. The licensees will be able to integrate the software platform into their own application-driven phone designs and thus cost-effectively speed up the rollout of new phone models. 
+ 
+The Series 60 platform supports open and common key technologies, such as MMS, Java(TM) and WAP/XHTML. The platform consists of the key telephony and personal information management applications, browser and messaging clients, a complete and modifiable user interface.

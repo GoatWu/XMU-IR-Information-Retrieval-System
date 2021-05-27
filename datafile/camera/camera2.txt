@@ -1,0 +1,47 @@
+Using the Sony DSC-F707
+
+
+Record Mode
+
+Since the lens is fully enclosed and doesn't need to extend, the F707 is ready to go in just 2 seconds after you turn it on. When you depress the shutter release halfway, the focus is locked in a second or so (depending on what the subject is). Depressing the button all the way results in the photo being taken with almost no lag.
+
+Considering the size of the images, shot-to-shot speed is excellent on the F707. You'll wait roughly 1.5 seconds before you can take another shot, even at the highest quality. The longest delay is when a TIFF file (14 MB) is written, and that's just over 40 seconds (the camera is locked up during that time).
+
+Like I said at the beginning of the review, the 16MB Stick is too small, so you'll probably want to pick up a larger one.
+
+The F707's menu system is pretty simple, since many functions are buttons rather than menu choices. Let's take a look at the various menu items and what they do:
+
+ISO (Auto, 100, 200, 400) 
+Image Size (2560 x 1920, 2560 (3:2), 2048 x 1536, 1280 x 960, 640 x 480) 
+Photo Quality (Fine, Standard) 
+Rec Mode (TIFF, Voice, E-Mail, Exposure Bracketing, Burst3, Normal) -- more on this below 
+Flash Level (High, Normal, Low) 
+Photo Effects (Solarize, Sepia, Negative Art, Off) 
+Sharpness (-2 to +2) 
+Here's more details on those Rec Mode choices:
+
+TIFF: uncompressed large image - only one fits on 16MB Stick. 
+Voice: Records an audio file along with a still image 
+E-mail: Records a 320 x 240 image in addition to the recorded image 
+Exposure bracketing: three shots in a row with different exposure compensation values (chosen in the setup menu) 
+Burst3: Records three images continuously, at 2 frames/sec. 
+In Setup Mode, there are a number of other options available. Here are the interesting ones:
+
+Expanded Focus (on/off) - whether or not the image is enlarged in manual focus 
+Moving Image (MPEG Movie, ClipMotion) - explained later 
+Date/Time (off, date, day & time) - imprint date on images 
+Digital Zoom (on/off) 
+Bracket Step (1.0EV, 0.7EV, 0.3EV) - for auto bracketing function 
+Redeye reduction (on/off) 
+Hologram AF (on/off) 
+File numbering (series, reset) 
+Conversion lens (on/off) 
+LCD/EVF brightness 
+USB connect (normal, PTP) - put it in PTP mode for Mac OS X only. 
+
+The camera faired very well in the usual macro test. The colors are right-on, which is nice considering how bad the lighting is in this room. You can get as close as 2 cm in wide-angle, or 90 cm in full telephoto when in macro mode.
+
+The camera did equally well in the night shot test, taken from the usual spot on Twin Peaks. Check out the detail on the buildings both near and far. I was also impressed with just how little noise is in this shot. 
+
+Overall, the photo quality on the F707 was stellar. Where the Coolpix 950 was the benchmark for photo quality a few years ago, I think the F707 will be the new benchmark going forward -- at least for a while. I've got a ton of photos to back this up too -- check out the Yosemite gallery as well as the double-size standard gallery! The last photo in the Yosemite gallery was the only photo with really noticeable chromatic aberrations.
+

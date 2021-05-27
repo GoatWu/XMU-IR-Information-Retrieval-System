@@ -1,0 +1,52 @@
+Using the Olympus D-550 Zoom
+
+
+Record Mode
+
+The camera takes about 3.5 seconds to extend the lens and "boot up" before you can start taking pictures. When you press the shutter release button halfway, the camera generally locks focus in under a second. Despite not having an AF illuminator, the 550 did a fairly good job of focusing in lower light conditions. When it does so, it will flash a "slow shutter" warning, advising you to either use the flash, or a tripod. 
+
+The shutter lag, or time between when the shutter release button is fully press and the photo taken, varies depending on the available light. If the camera has adequate light, the shutter lag is minimal. If the "slow shutter" warning is on, expect about 1/2 second of lag before the picture is taken.
+
+Shot-to-shot speed isn't bad -- about three seconds between photos (SHQ setting). If you record in TIFF mode, the camera will be locked up for about 13 seconds while the file is written. Not bad, as some other cameras I've taken can lock up the camera for almost a minute!
+
+For a point-and-shoot camera, the D-550Z has a ton of resolution and quality choices. 
+
+As you can see, there are many choices. I recommend SHQ if you're making larger sized prints, and HQ for everyday shooting. TIFF mode really isn't needed for most people. You can also see why you'll want a larger SmartMedia card. The 3:2 mode will make your pictures fit the 4x6 size perfectly.
+
+The D-550Z uses the new Olympus menu system, but it's not customizable like on the higher end cameras. When you first hit the menu button, you'll be presented with the following choices:
+
+Metering 
+Mode Menu 
+Exposure compensation 
+Quality 
+
+Your metering choices are ESP (matrix) or spot. Exposure compensation is the usual -2EV to +2EV in 1/2EV increments. The quality choices were described in the above chart. Choosing Mode Menu opens up the main menu:
+
+Camera Setup 
+Drive (Single shot, continuous shooting, continuous shooting w/AF) 
+ISO (Auto, 100, 200, 400) - Auto mode will move the ISO up as needed when the light is low. This increases the noise. 
+Digital zoom (on/off) 
+Panorama - helps you make panoramic shots. Requires Olympus-branded SmartMedia card 
+2 in 1 - two shots in succession combined into one
+
+Picture Settings 
+White Balance (Auto, sunlight, cloudy, tungsten, fluorescent) 
+Sharpness (Soft, normal, high) 
+Contrast (Low, normal, high)
+
+Card Setup (format)
+
+Setup (the interesting ones, at least) 
+All reset (on/off) - retain settings after camera is powered off 
+Rec View (on/off) - shows image after it's taken on LCD 
+File naming (Auto, reset) - the files are named with the date as the first few numbers. E.g. "P6116419.JPG" which was taken on 6/11. 
+Pixel mapping - helps eliminate "bad pixels" 
+LCD brightness 
+A quick note about the drive modes. Continuous shooting mode will take up to 11 shots in a row, at 1.2 frames/second. Continuous w/ AF will refocus the picture each time it takes the shot, which will slow things down considerably.
+
+It was a very foggy night when I took the above shot, which gives the sky a brown cast. The subject itself (SF's City Hall) is pretty well exposed, though. You can see a bit of noise and grain, but nothing horrible. If you're good, you can also see a "hot pixel" towards the upper left. If I had used the pixel mapping feature, I probably could have eliminated that.
+
+Here's a blowup of my new red-eye test. Even with red-eye reduction turned on, the D-550Z still exhibits this problem. You can fix this problem (in most cases) using software.
+
+I was quite pleased with the D-550's photo quality. It exposed images better than its more expensive sibling, the C-720UZ, and with less chromatic aberrations (purple fringing) to boot. The color was very nice and saturated as well. But don't just take my (our) word for it, have a look at our photo gallery and decide for yourself.
+

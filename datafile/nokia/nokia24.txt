@@ -1,0 +1,20 @@
+Nokia chosen by Orange as one of the preferred suppliers for group-wide MMS 
+
+(September 03, 2002) 
+
+Orange UK deployed Nokia¡¯s MMS for its commercial service, launched in August.
+
+  
+Nokia and Orange SA have signed a framework agreement for multimedia messaging service (MMS) systems.  The three-year agreement gives Orange member companies the option to use Nokia¡¯s MMS infrastructure solution, as well as services for implementation, systems integration, consulting, support and maintenance to ensure and maintain the competitiveness of the MMS solution.  
+ 
+In addition, Orange UK has signed a contract with Nokia for the supply and roll out of its MMS system, which was commercially launched on August 12, 2002.  Nokia is also in discussions with other individual Orange Group companies regarding the deployment of MMS across their networks.  
+ 
+¡°Orange customers will now have the opportunity to share information and send more personalized messages that combine images and sound, allowing them to reflect their individual style,¡± says Alistair McCouig, head of OrangeWorld Engineering.  ¡°We are pleased to be rolling these new services using Nokia infrastructure, starting in the United Kingdom.¡±  
+ 
+¡°MMS is the first true multimedia application of the mobile industry and a first step towards the third generation,¡± says Pertti Melamies, Vice President, Nokia Networks.  ¡°We are excited to bring it to reality now with Orange, an operator recognized by the industry for its forward thinking and continuous development of wireless applications.¡±  
+ 
+The Nokia MMS solution will enable Orange to provide rich messaging services to its customers.  The multimedia messages can be sent between MMS-capable phones or even to legacy phones, thanks to the Nokia Multimedia Terminal Gateway.  The Nokia solution provides content storage, voice messaging over MMS, intelligent connectivity to e-mail, and rich push/pull applications among other services.  
+ 
+The Nokia MMS solution also includes a wide portfolio of complementary solutions fulfilling a number of back-office operation requirements of operators, such as the profiling server, service activation solution, rating solution, streaming, and content downloading.  
+ 
+Nokia has among the wireless industry¡¯s most extensive track record in MMS with close to 30 customers to date and an ever-growing number of launched systems, making multimedia messaging a reality for today's mobile consumers.

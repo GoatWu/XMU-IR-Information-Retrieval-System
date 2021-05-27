@@ -1,0 +1,39 @@
+Using the Sony DSC-P31
+
+
+Record Mode
+
+Since the P31 has no lens to extend, it starts up very quickly -- in just two seconds. Auto-focus generally takes under a second, though it can take a bit longer if the AF illuminator is used. Shutter lag is not noticeable on the P31. Shot-to-shot speed is excellent -- just a second elapses before you can take another shot.
+
+The new Sony cameras released at PMA 2002 have three noise reduction systems to make your pictures better. There's one for chrominance (Clear Color NR), another for luminance, and finally, one for noise (Slow Shutter NR). When shutter speeds drop below 1/2 sec, the "Slow Shutter NR" noise reduction mode kicks in. This results in a longer wait for the image to be recorded, but you'll be rewarded with a less noisy image.
+
+On the new P-series, the uncompressed TIFF mode has gone the way of the dinosaur. I'm not sure why (maybe since few people actually use it?), but it's gone now. Some of the other Record Modes (Text, GIF, etc) seem to have disappeared as well.
+
+The DSC-P31 uses the familiar Sony "overlay-style" menu. It's easy enough to figure out. Here's what you'll find in the menus:
+
+Exposure Compensation (-2.0EV to +2.0EV in 1/3EV increments) 
+Focus (Multi AF, Center AF, 0.5m, 1.0m, 3.0m, 7.0m, infinity) - more below 
+White Balance (Auto, Daylight, Cloudy, Fluorescent, Incandescent) - lots more options here than on old models 
+Spot Metering (on/off) 
+ISO (Auto, 100, 200, 400) 
+Image Size (1600 x 1200, 1600 (3:2), 1280 x 960, 640 x 480) 
+Photo Quality (Fine, Standard) 
+Rec Mode (E-Mail, Normal) - E-mail is a 320 x 240 photo saved with a regular full size image 
+Flash Level (High, Normal, Low) 
+Photo Effects (Solarize, Black & White, Sepia, Negative Art, Off) 
+Sharpness (-2 to +2) 
+The white balance mode has been expanded on the new P-series. No more indoor, outdoor, or hold choices. There are new auto-focus (AF) modes as well: multi-area and center. The multi-area is 3 points, though the camera will pick what point it focuses on. 
+
+In Setup Mode, there are a number of other options available. Here are the interesting ones:
+
+Moving Image (MPEG Movie, ClipMotion, Multi-Burst) - explained below 
+Date/Time (Day & Time, Date, Off) - whether date/time is printed on your photos 
+Digital Zoom (on/off) 
+Redeye reduction (on/off) 
+AF illuminator (on/off) 
+File numbering (series, reset) 
+LCD brightness 
+The Moving Image feature has a new addition: Multi-Burst mode. This is similar to a feature found on the Nikon Coolpix cameras. It will take 16 shots in a row and put it into one 1280 x 960. I guess it's good for analyzing your golf swing. You get to choose from several between-frame intervals -- 1/7.5 sec, 1/15 sec, and 1/30 sec. I'll try to get a sample of something interesting when I get the final production-level camera. There is also a movie-like feature called ClipMotion which will take 10 images and put them into an animated GIF for you. 
+
+Since this is a pre-production camera, I won't be doing any of the usual test photos. Those will be posted when I get a production unit. In the meantime, I've posted some sample photos in the gallery. Keep in mind that this is not a production camera!
+

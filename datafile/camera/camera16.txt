@@ -1,0 +1,53 @@
+Using the Sony Mavica MVC-FD95
+
+
+I'm going to cover three areas in this section: Still, playback, and movie. 
+
+Record  Mode 
+
+The boot-up time of the FD95 seems to vary. In playback mode, it takes around 10 seconds, while in still mode, it takes roughly 5 seconds. While there's a bit of lag during auto-focus and shutter release, it's barely noticeable. The real slowness happens after you take the photo -- it takes around 7 seconds to write the photo to the floppy disc! Apparently (according to Steve's Digicams), the FlashPath adapter takes twice as long to write to the Memory Stick as it does to the floppy! Aie!
+
+Taking pictures is a real piece of cake -- compose the picture, push the button down halfway, let it focus (wait for the green dot on the LCD), and then press the rest of the way to take the shot. Sony, being Sony, has a phony shutter sound that is played when you take a photo (you can turn it off if you like).
+
+While you cannot approve a photo before it's saved to disc, you can hit the left button (on the four-way switch) to review the last photo, and delete it if you wish.
+
+The photo above shows the LCD display in Aperture Priority mode. That little hand is telling me to keep still, and there's only 9 minutes left on the battery. It's in 1600 x 1200 mode, and there are no photos on the disc yet. Strangely, the FD95 doesn't tell you how many photos are remaining; rather, it tells you how many you've taken. Considering you can only hold FOUR per floppy at 1600 x 1200, this isn't a big deal.
+
+All the options you commonly change are on the side of the camera (shown in the previous section), so menu usage isn't needed often. 
+
+So what can you change in these well-designed menus? Here's what:
+
+Effect 
+P. Effect - various special effects such as solarize, black & white, sepia, etc 
+Date/Time - shows the date and/or time on your pictures 
+File 
+Disk tool - format or copy discs 
+File numbering - series or normal (start over each new disc) 
+Image Size - shown in menu above 
+Rec mode - Text (records a GIF file in black & white), Voice (adds a sound to your image), E-mail (saves a 320 x 240 JPEG in addition to full-size), normal 
+Rec time set - How long movies are - 5/10/15 sec 
+Various play-only settings (DPOF, slide show, etc) 
+Camera 
+Digital zoom on/off 
+Sharpness +2 to -2 
+Flash level - high, normal, low 
+Exposure compensation - +2.0EV to -2.0EV 
+Tool 
+Copy images 
+Resize images (play mode only) 
+Setup 
+Demo mode 
+Video out - NTSC or PAL 
+Language 
+Clock set 
+Beep sound (shutter only, beep on/off) 
+LCD brightness 
+
+No review would be without this shot! It ain't a Coolpix 950/990, but the FD95 takes respectable macro shots as close as 2cm (0.8") away. It actually did better in the white balance department than my CP950 usually does!
+
+Here's what I was talking about weird night shots. The sky was definitely not this color in real life! This was shot with a 1 second exposure. Aside from that, there isn't a lot of noise and the detail is pretty good. Locals should know where I am :-)
+
+There is no uncompressed TIFF mode on this camera.
+
+There are lots more photos in the gallery for your perusal.
+

@@ -1,0 +1,57 @@
+Using the Sony Mavica MVC-CD1000
+
+
+Record Mode
+
+The CD1000 is a camera which does a very good job as both a point-and-shoot camera as well as manually controlled camera. The amount of time it takes the CD1000 depends on how many photos are already on the CD. With a brand new CD-R, it takes about 3 seconds to start up, whereas with a fully loaded disc, it's more like 13 seconds. 
+
+When you depress the shutter release halfway, it takes the camera roughly one second to lock focus. The delay between fully depressing the shutter release and the actual picture being taken is negligible. The recycle time on this camera is about three seconds (in Normal mode, 1600 x 1200), which isn't too bad at all. 
+
+As I mentioned earlier, the CD1000 has an electronic, rather than optical viewfinder. The good news is that you get to see much more information in the EVF than you would on an optical viewfinder. The bad news is that an EVF just isn't the same as looking through glass (or plastic as the case may be).
+
+I've already mentioned many of the options you can choose from on the CD1000 -- but there's more inside the menu system in record mode. These include:
+
+Self-timer (10 sec) 
+Effect 
+P. effect (solarize, B&W, sepia, negative art, off) - sets the image special effects 
+Date/time (day & time, date, off) - sets whether to insert the data and time into the image 
+File 
+Disc Tool (initialize, finalize, cancel) - more on this in next section 
+Position Sensor (on/off) - orientates pictures correctly 
+File numbering (series/normal) 
+Image size - see below 
+Rec. Mode (TIFF, text, voice clip, e-mail, normal) - see below 
+Rec. Time Set (5/10/15 sec) - recording time for movies 
+Camera 
+Digital zoom (on/off) - 2X digital zoom 
+Sharpness (+2 to -2) 
+Flash level (high/normal/low) 
+Exposure compensation (-2.0EV to +2.0EV) 
+Setup 
+Demo (on/off) 
+Video out (NTSC/PAL) 
+Language (English/Japanese) 
+Clock set 
+Beep (beep + shutter, shutter only, none) 
+LCD brightness 
+
+In the Rec. Mode portion of the menu, there are additional choices, including:
+
+E-mail - saves a 320 x 240 image in addition to the regular sized photo 
+Voice - save up to a 40 second sound clip with each photo 
+Text - Recorded as a black & white GIF image 
+TIFF - uncompressed image format 
+Do keep in mind that these other modes will decrease the total number of photos per CD. You can store around 20 TIFF files per CD-R disc.
+
+My initial attempts with the macro test gave me an image that was just too dark. Even bumping up the exposure compensation didn't help. So I tried longer exposures, and got the shot you see above with a 1 second exposure. With that out of the way, the CD1000 took a pretty nice macro shot. You can shoot as close as 2cm in macro mode on the CD1000!
+
+The story behind why I don't have a nightshot illustrates my big problem with the CD1000. There I was: Monday night at Treasure Island. No, I wasn't in Las Vegas -- I was on an island in the middle of San Francisco Bay. If you've been on the Bay Bridge, you've gone right through it. I setup the CD1000 on a tripod and was all ready to take my pictures, when I saw a message on the LCD: Disc Full!
+
+Now, with any other camera, I'd delete a photo or two, and then have room to take the photos I needed. Not so with the CD1000. The CD-R drive on this camera is write-once, not rewriteable. You can "delete" photos via the camera interface, but they're never really gone -- they still take up space on the disc. Suddenly the CD1000 doesn't seem quite as "digital" as other digital cameras, at least in my eyes.
+
+I was able to lower the resolution to 640 x 480, and I took one picture -- which turned out blurry since the camera vibrated when I hit the shutter release button. I can tell you that, although very blurry, it did take in a lot of light, and probably would've been an acceptable picture (if you really want to see the photo, I'll put it up).
+
+The story continues: So I was stuck without any extra CDs on a Monday night on a mostly deserted island with a camera that was already supposed to be back at Sony. I couldn't finish my tests since I couldn't take anymore photos, so I delayed the review one day while I bought another CD-R. And here's where I got "taken to the cleaners". After returning empty handed from CompUSA, I ventured into the SonyStyle store at the Metreon in San Francisco, where I was sold a single CD-R for -- brace yourselves -- $12.95. And that ends the story...
+
+Overall, though, photo quality was most impressive. The CD1000s photos are much less compressed than those on the FD95 camera I tested a few months ago, and it shows. If you really want the highest quality, you can use TIFF mode. Take a look at the gallery to see some sample photos.
+

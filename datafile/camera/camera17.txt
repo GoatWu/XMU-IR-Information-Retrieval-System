@@ -1,0 +1,54 @@
+Using the Sony Mavica MVC-FD200
+
+
+Record Mode
+
+Since there's no need to extend the lens, the FD200 starts up in just two seconds. When you press the shutter release button halfway, the camera takes a rather sluggish second or more to lock the focus. When you fully press the button, the photo is taken with minimal delay.
+
+The subject of shot-to-shot speed helps illustrate why I don't like floppy cameras. When using the Memory Stick, you'll wait about 2.5 seconds before you can take another shot. However, if you use the Floppy Drive, it will lock up the camera for 6.5 seconds.
+
+Storage capacity is the other "beef" I have with the floppy disk format. Again, the Memory Stick wins big in this category. 
+
+The 1600 (ECM) mode is only available for floppy images. The ECM mode compresses the images ever more than they already are.
+
+How can this be? Well, in order to stuff those measly four high res photos onto the floppy disk, the Mavica has to turn up the JPEG compression even more. In ECM, they add even more compression. The more JPEG compression, the cruddier the image quality. Since there's more "breathing room" on a Memory Stick, images are much less compressed.
+
+The FD200's "overlay-style" menu system is pretty simple. Let's take a look at the various menu items and what they do
+
+Self-timer (on/off) - 10 seconds 
+Effect 
+Photo Effects (Solarize, Black & White, Sepia, Negative Art, Off) 
+Date/Time (Day&Time, Date, Off) - whether or not the date/time is printed on your photos 
+File 
+Format 
+Disk Copy - copy one floppy to another 
+File numbering (Series, Normal) 
+Clip Motion (160 x 120, 80 x 72) - make animated GIFs of up to 10 frames 
+Image Size (see chart above) 
+Rec Mode (TIFF, Text, E-Mail, Normal) -- more on this below 
+Camera 
+ISO (Auto, 100, 200, 400) 
+Digital Zoom (on/off) 
+Sharpness (-2 to +2) 
+White Balance (Hold, Auto, Indoor, Outdoor) 
+Flash Level (High, Normal, Low) 
+Exposure Compensation (-2.0EV to +2.0EV) 
+Setup (the usual stuff) 
+There is no true manual white balance or continuous (burst) mode on the FD200, unlike some of the more expensive Sony cameras. The "hold" white balance mode is for use with single-colored subjects or backgrounds.
+
+Here's more details on those Rec Mode choices:
+
+TIFF: uncompressed large image - requires at least an 8MB Memory Stick 
+Text: records a GIF in black & white 
+E-mail: Records a 320 x 240 image in addition to the recorded image 
+
+The MVC-FD200 did a fine job in our macro test. You'll want to have good lighting when doing shots like this, as my first attempts with lower light levels did not come out so well. You can get as close as 3 cm (at wide-angle) in macro mode on the FD200.
+
+The night shot test didn't turn out quite as well. Before you say "but your location isn't a good one for this shot", I can tell you that we also took an old Coolpix 950 out too, and it ran circles around the Mavica. The above shot was taken in Twilight Plus mode and that's the best I could get out of it. It's not bad, but it would be better with some real control over exposure.
+
+That brings up a related subject. I did some "real world" shooting (more than I usually do, at least) with the FD200, when I took it and the Olympus D-40 on a trip to Sacramento. I attempted to take pictures (with and without the flash) inside the CA State Railroad Museum with both cameras, and the pictures always came out poorly. The flash on the FD200 seems to be weak -- even at full power.
+
+I don't have any side-by-side comparison photos to show you, but if you look at the FD200 gallery along side the D-40Z gallery you will see the difference. What's scary is that the cameras are very close in price, even though the D-40 has double the resolution.
+
+Outdoors, the Mavica FD200 fared better. Images were sharp and the colors were accurate. It's when things aren't so bright that I had problems. Chromatic aberrations (also known as purple fringing) wasn't a major problem. Take a look at the photo gallery and judge the quality for yourself.
+

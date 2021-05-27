@@ -1,0 +1,21 @@
+Wind in Italy chooses Nokia as supplier for its multimedia messaging solution 
+
+(September 23, 2002) 
+
+End-to-end MMS solution supplied by Nokia includes Nokia 7650 imaging phones and an MMS Developer Competition.
+
+  
+Italian mobile operator Wind chose Nokia¡¯s MMS solution for its multimedia messaging service launched commercially in July.  The Nokia MMS solution is being used by Wind to allow its mobile customers with MMS-capable phones to enjoy advanced messaging services combining text, images, graphics and sound in a single rich message.  
+ 
+Wind, the first Italian operator to launch MMS, begun its MMS services commercially at the beginning of July 2002 based on the Nokia platform.  In addition to person-to-person multimedia messaging, Wind is offering application-to-person services such as infotainment, entertainment, and chat.  The MMS solution Nokia is providing will give Wind an edge in offering advanced mobile services in one of the world¡¯s most advanced ¨C and demanding ¨C mobile markets.  
+ 
+Under the agreement between the two companies, Nokia has supplied Wind with a complete end-to-end MMS solution including the Nokia MMS Center, the Nokia Multimedia Terminal Gateway, which provides non-MMS phones support and a personal-album application for long-term message storage, and the Nokia Profile Server, which supports the profiling of Wind¡¯s customer base.  In addition, Nokia has also supplied Wind with Nokia 7650 imaging phones, the first MMS-compatible mobile terminal from Nokia incorporating a digital camera.  
+ 
+Nokia is also performing services for implementation, systems integration, consulting, support and maintenance to ensure and maintain the competitiveness of the MMS solution.  
+ 
+"Nokia believes that, much like the transition from radio to TV, the evolution from text messaging to multimedia messaging marks a whole new era of mobile communications, combining images with sound and text," comments Antonio Papa, Wind Account Director, Nokia Networks.  "We are pleased to be working so closely with Wind in order to provide it with a complete multimedia messaging offering to ensure that MMS is a success in Italy."
+ 
+To complement the solution offering and enable a smooth entry into ready-made MMS content, Nokia also supported Wind in setting up an MMS Developers' Competition, directed mainly towards the Italian developer community.  Both individuals and companies were able to register, the key criteria being their ability to fully exploit the potential behind MMS and content-to-person applications.  Close to 300 developers registered for the competition, and provided Wind with MMS application ideas, which will lead to future cooperation in areas such as mobile downloading, browsing and streaming.  A final announcement about the winners is expected towards October.  
+ 
+About Nokia
+Nokia is the world leader in mobile communications. Backed by its experience, innovation, user-friendliness and secure solutions, the company has become the leading supplier of mobile phones and a leading supplier of mobile, fixed broadband and IP networks. By adding mobility to the Internet, Nokia creates new opportunities for companies and further enriches the daily lives of people. Nokia is one of the most broadly held companies in the world with listings on six major exchanges. 

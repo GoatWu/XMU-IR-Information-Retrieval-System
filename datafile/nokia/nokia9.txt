@@ -1,0 +1,22 @@
+Opto 22 and Nokia team to deliver wireless communication to enterprise assets 
+
+(September 20, 2002) 
+
+Offering simplifies, improves, and reduces the cost of remote business operations
+
+
+Temecula, CA and Irving, Texas ¡ª Opto 22, a manufacturer of hardware and software products for remote monitoring and enterprise data acquisition, has teamed up with Nokia (NYSE: NOK), the expert in mobility, to create, promote and market the first complete offering for providing wireless connectivity to external physical business assets.
+ 
+Opto 22¡¯s SNAP-IT connects to, remotely monitors, and captures operational data from new or legacy line-of-business systems, devices and equipment. Nokia¡¯s M2M platform, which includes the Nokia 31 connectivity terminal and the Nokia M2M Gateway, provides the wireless hardware and software necessary to communicate with Opto 22¡¯s SNAP-IT. The resulting combination creates a complete package for wirelessly delivering real world data using GSM/GPRS networks to enterprise applications and databases over standard, Internet-based architectures.
+ 
+Devices and equipment such as manufacturing machinery, telecommunications gear, storage tanks, generators, and other remote systems are examples of key business assets to which wireless connectivity can be added to provide a communications link even where a dedicated line is unavailable. Once connected, organizations can capture real-time data from these assets, deliver operational data to databases and business applications, manage building facility systems, provide access control and security, and perform remote equipment control, diagnostics, and other extended enterprise activities.
+ 
+The SNAP-IT and M2M products set facilitates such enterprise initiatives such as supply chain execution, energy management, and regulatory compliance in manufacturing, utility, energy, retail, telecom, service, and government markets and industries.
+ 
+¡°The Nokia M2M platform has brought a new level of flexibility to enterprises needing to connect and communicate with remote equipment. By combining Nokia¡¯s expertise in mobility with Opto 22¡¯s experience in remote monitoring, we can together offer a simple solution for what had been a complex problem,¡± said Sarah Van Siclen, director of mobile enhancements for Nokia Americas. ¡°This is a good example of the kind of opportunity made possible by today¡¯s new generation of wireless networks.¡±
+ 
+¡°In meeting our customers¡¯ remote monitoring and data acquisition requirements, establishing the communication to a remote asset has always presented a challenge,¡± says Opto 22 vice president, Bob Sheffres. ¡°Now, through our collaboration, Opto 22 and Nokia have revolutionized the way organizations can remotely monitor and manage their external business assets by making it quicker, simpler, and less expensive than ever before.¡±
+ 
+Accordingly, system integrators and solution providers can expect significant improvements in system rollouts and implementations for these types of projects. One such firm, ManagetheWorld, LLC, a division of Professional Consulting Services (PCS) of Chicago, Illinois, has already installed several pilot Opto 22/Nokia systems. ¡°By offering VARs and solution providers a one-stop, all-inclusive package, Opto 22 and Nokia step to the forefront of the movement to integrate information from remote business assets and devices with the enterprise,¡± states Steve Pazol, president of ManagetheWorld. ¡°This has allowed us to focus on our IT core competencies and decrease our implementation times by not having to install or specify a communications infrastructure.¡±
+ 
+To promote their joint solution, Opto 22 and Nokia will be offering demonstrations at major IT and networking events including the upcoming Comdex trade show in Las Vegas, Nevada, November 18th through 22nd. The two companies are also collaborating on a new, soon to be announced Website illustrating the benefits of the offering and providing information on how to get started monitoring and managing the entire extended enterprise.

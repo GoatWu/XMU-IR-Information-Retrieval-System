@@ -1,0 +1,44 @@
+Using the Olympus E-100RS
+
+
+Record Mode
+
+The E-100RS, as you might expect, is an exceedingly fast camera. Startup time is about 4 seconds, and that's probably the longest you'll wait. When you depress the shutter release button halfway, it takes less than one second to lock focus (using Full Time AF can speed this up as well). When you fully depress the button, the photo is taken in about half a second. Thanks to the hefty amount of buffer memory, shot-to-shot speed is amazing-- you can shoot as fast as you can compose. The only exception is when shooting TIFFs-- you'll have to wait about 10 seconds while it saves the image to the card.
+
+Continuous shooting is where the E-100RS really stands out (and earns its namesake). You can choose between 3, 5, 7.5, or 15 frames per second! 
+
+Sorry folks, no 15 frames/sec while recording Tiffs! 
+
+Another option (which can be used with the mode described above) is Pre-capture shooting. Here, the camera starts recording when you press the shutter release halfway. I suppose this is useful in situations where you're a little slow with hitting the shutter release button.
+
+While we're on the subject of how many photos you can store, here's a look at the many recording options on the E-100, and how many fit on the included 8MB card, as well as a 64MB card (for reference sake).
+
+As you can see, there are tons of options available in the resolution and quality department. Let's go over some of the menu choices you have on the E-100:
+
+SM/CF - Choose between the SmartMedia and CompactFlash slots 
+Continuous Mode settings (3, 5, 7.5, 15 fps) 
+Pre-capture (on/off, # of photos) 
+White balance (auto, daylight, overcast, tungsten, fluorescent, manual) 
+Flash intensity (-2.0EV to +2.0EV, in 1/3EV increments) 
+Slow Flash (on/off) 
+Auto-bracketing (set up) 
+Multi-metering (on/off) 
+Image Stabilization (on/off) 
+AF Mode (iESP, spot) 
+Full-Time AF (on/off) - when on, camera focuses without pressing shutter release halfway. 
+Super Tele (on/off) - aka 2.7X digital zoom 
+Function (black & white) - what happened to sepia and the white board modes? 
+Card setup - format the memory cards 
+Sound record (on/off) - record 4 second audio clips after photo is taken 
+Mode Setup - set basic camera prefs and defaults 
+ISO (Auto, 100, 200, 400) 
+S-Prg - choose which mode you want 
+Record mode (TIFF, SHQ, HQ, SQ) 
+One very welcome addition over the C-2100 Ultra Zoom is the manual white balance, which lets you decide what "white" should be. 
+
+The camera did pretty well on this muggy night on Twin Peaks. There are some hot pixels in both of these pictures-- just look for the blue/purple "stars" in the sky. For those of you who care, the SF skyline isn't as bright as it used to be-- they're turning off some of the lighting on the buildings to save power.
+
+Like the other cameras that use the same lens, the E-100RS displays chromatic abberations (also known as purple fringing) in some situations. I noticed it the most on cloudy days, or at full telephoto. Take a gander at the beach/Cliff House photo in the gallery to see what I mean. Aside from that, photo quality was very good -- and the ability to grab action shots is amazing. Again, see the gallery for a few samples and judge for yourself.
+
+
+

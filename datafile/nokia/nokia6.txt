@@ -1,0 +1,29 @@
+New Mobile Internet Technical Architecture book provides an insight into the mobile future 
+
+(September 24, 2002) 
+
+
+
+Nokia has produced a new comprehensive study on the future of the mobile world. The Mobile Internet Technical Architecture (MITA) book is a set of three volumes, focusing on the technologies, standards, solutions, software and visions of the mobile domain. The book¡¯s authors are among Nokia¡¯s top mobile communications experts. 
+ 
+The MITA book is targeted at readers who want to get a thorough understanding of mobility and the unique characteristics of mobile business. The book also contains accompanying CD-ROMs with a set of white papers and software development tools.
+ 
+¡°The MITA book addresses the challenges of the Mobile World where the delivery of targeted and timely information and services will be crucial. The ability to understand and match the technical architecture with the evolution of business systems and evolving consumer needs will be a key success factor for all players in the mobile communication industry,¡± said Sami Inkinen, Vice President, Strategic Architecture, Mobile Software unit, Nokia. ¡°The idea of the MITA book is to give an overview of current and upcoming solutions including the most important technologies and applications in the mobile domain.¡± 
+ 
+The three volumes of the MITA book are divided in six main sections: The Technologies, The Standardization, The Solutions, The Tools, The Visions and The Implementations. 
+ 
+- The Technologies section describes the existing technologies that will form a solid basis for future innovations, development work and the products of the Mobile Internet. The reader will learn about the technologies that already exist, whether in research, in the product development phase or in actual products. 
+ 
+- The Standardization section introduces a set of standardization organizations. It also discusses the role and challenges of standardization in the new Mobile World. 
+ 
+- The Solutions section gives insight into current Nokia solutions. It provides information on how various technologies are combined to produce systems and services today. 
+ 
+- The Tools section addresses one of the cornerstones of Mobile Internet Technical Architecture: tools for application and service development. The section describes, with selected examples, how applications and services can be developed with Nokia tools for the Mobile Internet. 
+ 
+- The Visions section describes a set of key functions that will be essential for the Mobile Internet. The reader is given a more future oriented view on how technologies will evolve. This includes topics, such as browsing, messaging, rich call, QoS and security. 
+ 
+- The Implementations section gives a view on MITA Reference Implementations that are used to validate new concepts, to gain experience and to smooth the way for products based on the latest technologies. 
+ 
+The MITA book is published by Edita Publishing Ltd, IT Press. The three volumes of the MITA book can be purchased separately or as a complete package. Further information on the MITA book is available at www.itpress.biz.
+ 
+Nokia is the world leader in mobile communications. Backed by its experience, innovation, user-friendliness and secure solutions, the company has become the leading supplier of mobile phones and a leading supplier of mobile, fixed broadband and IP networks. By adding mobility to the Internet Nokia creates new opportunities for companies and further enriches the daily lives of people. Nokia is a broadly held company with listings on six major exchanges. 

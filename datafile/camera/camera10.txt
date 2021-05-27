@@ -1,0 +1,43 @@
+Using the Sony DSC-S75
+
+
+Record Mode
+
+The camera turns on with much fanfare and takes about 4 seconds to "warm up" before you can start taking shots. When the shutter release is pressed halfway, it takes less than a second to lock focus. The delay between the time the button is fully depressed and the shot is taken is minimal. Between shots, you'll only have to wait about two seconds. The zoom controls were also speedy and accurate.
+
+The S75's menu system is pretty simple, since many functions are buttons rather than buried in the menu somewhere. Let's take a look at the various menu items and what they do:
+
+White Balance (One-push, Auto, Indoor, Outdoor) 
+ISO (Auto, 100, 200, 400) 
+Image Size (2048 x 1536, 2048 (3:2), 1600 x 1200, 1280 x 960, 640 x 480) 
+Photo Quality (Fine, Standard) 
+Rec Mode (TIFF, Text, Voice, E-Mail, Burst2, Normal) -- more on this below 
+Flash Level (High, Normal, Low) 
+Photo Effects (Solarize, Black & White Sepia, Negative Art, Off) 
+Sharpness (-2 to +2) 
+I think that's the shortest list in some time. The "one-push" white balance mode is indeed a manual WB mode. Shoot a piece of white paper or whatever you want to be white, and you'll be able to get accurate color in almost any lighting. 
+
+Here's more details on those Rec Mode choices:
+
+TIFF: uncompressed large image - won't fit on 8MB Stick. Only one fits on 16MB Stick. 
+Text: records a GIF in black & white 
+Voice: Records an audio file along with a still image 
+E-mail: Records a 320 x 240 image in addition to the recorded image 
+Burst2: Records two images continuously 
+In Setup Mode, there are a number of other options available. Here are the interesting ones:
+
+Scene Mode Selection (twilight, landscape, portrait) 
+Moving Image (MPEG Movie, ClipMotion) - explained later 
+Digital Zoom (on/off) 
+Red-eye reduction (on/off) 
+AF illuminator (on/off) 
+File numbering (series, reset) 
+Conversion lens (on/off) 
+LCD brightness 
+
+The DSC-S75 performed admirably in our macro test, in both color accuracy and sharpness. The shot above used manual (one-touch) white balance. You can get as close as 4 cm (1.6") in wide-angle mode, and 20 cm (8") in telephoto mode.
+
+The camera was about average in the nightshot test. For some reason, all the lights in the picture are white rather than the yellow as seen by the naked eye, and recorded by other cameras that same night. Aside from that, there are no "unnatural stars" in the sky caused by hot pixels.
+
+Overall, I was very pleased with the quality of the photos from the S75. But don't take my word for it, judge for yourself in the DSC-S75 photo gallery!
+

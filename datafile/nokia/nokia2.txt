@@ -1,0 +1,26 @@
+Nokia provides Sonera with its Delivery Server for mobile content downloading 
+
+(September 26, 2002) 
+
+
+
+  
+Finnish mobile operator Sonera has awarded Nokia with a contract to supply its advanced Delivery Server for downloading mobile content.  The Nokia Delivery Server solution will allow Sonera to bring new rich services to its customers by enabling the downloading of content such as Java games, polyphonic ringing tones, and Symbian applications to mobile phones.  Java technology empowers application developers to create games and other exciting applications for mobile devices.  
+ 
+The contract follows extensive trialling of the solution, and includes the Nokia Delivery Server system as well as support and maintenance.  Deliveries start immediately.  
+ 
+¡°The Nokia Delivery Server is a strategically important development in mobile content downloading, giving users smoother access to Java applications and all the other rich service possibilities,¡± says Timo Koistinen, Director, Nokia Networks.  ¡°And we are very pleased that Sonera has recognized this and selected this ground-breaking product as its delivery solution of choice.¡± 
+ 
+¡°Based on our past experience with Nokia¡¯s other value-added solutions, such as MMS, we are confident that the Nokia Delivery Server will be a successful addition to our service-platform technology¡±, says Martti Kosonen, Vice President, Products and Services, Sonera.  ¡°We see the Delivery Server as an important piece in the puzzle of bringing the best possible content such as Java applications to our customers in the most flexible and cost-effective way.¡±
+ 
+Nokia Delivery Server is a comprehensive, open-standards solution that gives operators revenue-generating opportunities to download content such as Java applications to their customers¡¯ mobile phones.  The streamlined content downloading enabled by the Nokia Delivery Server means increased revenue to operators, service providers and application developers.  
+ 
+The Delivery Server can be used to download content to WAP terminals accessing the network through a WAP gateway.  It also supports Java enabled mobile handsets such as the Nokia 3410 and the Nokia 7650.
+ 
+Sonera is the largest mobile operator in Finland, with 2.5 million subscribers, making up 60 percent of the Finnish market.  
+ 
+About Sonera
+Sonera Corporation (HEX: SRA, NASDAQ: SNRA) is a leading provider of mobile and advanced telecommunications services. Sonera is growing as an operator, as well as a provider of transaction and content services in Finland and in selected international markets. The company also offers advanced data solutions to businesses, and fixed network voice services in Finland and neighbouring markets. In 2001, Sonera's revenues totaled EUR 2.2 billion, and profit before extraordinary items and taxes was EUR 0.45 billion. Sonera employs about 7,400 people. www.sonera.com
+ 
+About Nokia
+Nokia is the world leader in mobile communications.  Backed by its experience, innovation, user-friendliness and secure solutions, the company has become the leading supplier of mobile phones and a leading supplier of mobile, fixed broadband and IP networks.  By adding mobility to the Internet, Nokia creates new opportunities for companies and further enriches the daily lives of people.  Nokia is one of the most broadly held companies in the world with listings on six major exchanges.  

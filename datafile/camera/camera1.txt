@@ -1,0 +1,47 @@
+Using the DSC-P1
+
+
+I'm going to discuss still record, movie record, and playback mode in this section.
+
+Record Mode
+
+The DSC-P1 powers up in less than four seconds, and then it's ready to go. When you first turn it on, it displays a "splash screen" with the Cyber-shot logo, as well as the current date and time.
+
+There is about a one second lag while the camera focuses when you depress the shutter release button halfway. There's minimal lag from the time you fully depress the button to the actual recording of the photo.
+
+Sony uses overlay style menus for all the functions that don't have buttons. These menus are easy to use, though they're laid out strangely (some things in "File" seem like they should be in "Camera", for example). Here are all the options you have available in record menus:
+
+Self-timer (on/off) 
+Effect 
+Photo Effect (solarize, black & white, sepia, negative art [color/brightness reversed]) 
+Date/Time stamp 
+File 
+Format card 
+File numbering (normal, series) 
+Clip-motion (see below) 
+Image Size (2048 x 1536, 2048 (3:2 ratio), 1600 x 1200, 1280 x 960, 640 x 480) 
+Record mode (TIFF, Text [B&W GIF file], Voice [save 5-40 secs of sound with photos], E-mail [320 x 240]) 
+Camera 
+Digital Zoom (on/off) 
+Sharpness (-2 to +2) 
+White balance (Indoor, Outdoor, Hold [AE Lock], Auto) 
+Flash level (high, normal, low) 
+Exposure Compensation (-2.0EV to +2.0EV) 
+Setup 
+Video out 
+Language 
+Clock set 
+Beep 
+LCD brightness 
+A few of these options require more explanation. First, what's Clip Motion? It's an animation function that takes up to 10 frames, and puts them into an animated GIF file with 1/2 sec between frames. You can record at 160 x 120 (normal) or 80 x 72 (mobile). So now all you aspiring filmmakers can make things like the "movie" below. 
+
+The self-timer is activated via the menu system, which is unusual for a digital camera. In true Sony fashion, the build up to the photo is a spectacle, with flashing lights and sounds. The self timer is for 10 seconds (I love cameras with 3 and 10 second self-timers, but oh well).
+
+There is indeed an uncompressed TIFF mode, but you're only going to get one photo on the included Memory Stick, which is why I recommend a much larger one. It takes over 20 seconds to store an uncompressed TIFF onto the Memory Stick.
+
+The macro test turned out just OK. I first tried using "indoor" white balance, but that turned out too yellow. So I used "auto" and got a better result. There is a good deal of noise in this shot, unfortunately. I did have more luck with macro mode outdoors - check out the gallery and look at the flower pictures. You can get as close as 4 cm / 10 inches in macro mode.
+
+The night shot also turned out just OK. There's not a lot of noise, but I just couldn't get it to take in a whole lot of light. The above shot used the "Twilight Plus" mode, and that's the best I could get. There's no manual control of shutter or aperture on the P1. I did notice that Steve over at Steve's Digicams has better luck with his night shots than I did.
+
+Overall, outdoor photos proved to be very good. You can browse our gallery to see quite a few sample photos and then decide for yourself.
+

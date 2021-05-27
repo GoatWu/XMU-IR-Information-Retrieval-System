@@ -1,0 +1,53 @@
+Using the Sony DSC-P5
+
+
+Record Mode
+
+The P5 takes just three seconds to extend the lens and "warm up" before you can start taking pictures. Depressing the shutter release halfway results in a focus lock in under a second in most cases. There is no noticeable shutter lag when you press the button fully to record the picture. Shot-to-shot speed is very good, as well - you'll wait about 2 seconds before you can take another shot (Fine mode). TIFF files take longer to record, but since you can't actually fit one on the included Memory Stick, I can't tell you exactly how long (I'd guess about 40 seconds to write it).
+
+As I mentioned, you can't get a single TIFF file on the included 8MB Memory Stick. If you're doing to be shooting TIFFs, buy a much larger card (they come as big as 128MB).
+
+The DSC-P5's "overlay-style" menu system is pretty simple and easy to learn. Let's take a look at the various menu items and what they do:
+
+Exposure Compensation (-2.0EV to +2.0EV) 
+Focus (Auto, 0.5m, 1.0m, 3.0m, 7.0m, infinity) 
+White Balance (Hold, Auto, Indoor, Outdoor) 
+Spot Metering (on/off) 
+ISO (Auto, 100, 200, 400) 
+Image Size (2048 x 1536, 2048 (3:2), 1600 x 1200, 1280 x 960, 640 x 480) 
+Photo Quality (Fine, Standard) 
+Rec Mode (TIFF, Text, Voice, E-Mail, Burst2, Normal) -- more on this below 
+Flash Level (High, Normal, Low) 
+Photo Effects (Solarize, Black & White, Sepia, Negative Art, Off) 
+Sharpness (-2 to +2) 
+There is no manual white balance on the P5, unlike some of the more expensive Cyber-shots. The "hold" white balance mode is for use with single-colored subjects or backgrounds.
+
+Here's more details on those Rec Mode choices:
+
+TIFF: uncompressed large image - cannot fit on 8MB stick 
+Text: records a GIF in black & white 
+Voice: records an audio file along with the JPEG 
+E-mail: Records a 320 x 240 image in addition to the recorded image 
+Burst2: records two images continuously (interval of 0.6 sec) 
+
+In Setup Mode, there are a number of other options available. Here are the interesting ones:
+
+Moving Image (MPEG Movie, ClipMotion) - explained later 
+Digital Zoom (on/off) 
+Red-eye reduction (on/off) 
+AF illuminator (on/off) 
+File numbering (series, reset) 
+LCD brightness 
+USB connect (normal, PTP) - put it in PTP mode for Mac OS X only. 
+Okay, enough about menus already, let's take a look at our photo tests!
+
+It took a little help from the exposure compensation feature, but I was able to take a good macro test shot of the "usual suspect" above. The colors are right on, which isn't easy in the room where this shot is taken. 
+
+You can get as close as 10 cm (4") at full wide-angle, or 60 cm (about 24") at full telephoto.
+
+I wasn't able to get much of a night test shot with the P5, due in part to the lack of manual controls. I admit that the city isn't as lit up as it used to be, but even the Kodak DX3900 camera did better. There weren't any "artificial stars" caused by noise in this photo.
+
+Overall, I was very happy with the DSC-P5's photo quality. Photos were sharp, colors were accurate, and I didn't notice any major problems with chromatic aberrations. But don't take my word for it -- check out the gallery and judge for yourself.
+
+
+

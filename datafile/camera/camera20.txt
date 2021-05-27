@@ -1,0 +1,78 @@
+Using the Nikon Coolpix 885
+
+
+Record Mode
+
+The camera takes five seconds to start up before you can start taking photos.
+
+Depressing the shutter release button results in locked focus in under a second. When you fully depress the button, the photo is taken after a short, but noticeable lag. Shot-to-shot speed is good -- you'll wait about two seconds at normal quality before you can take another shot.
+
+One feature that seems less common these days is the Coolpix's ability to pause and delete photos just after they were taken. Where most cameras only show you a preview, Nikon lets you pause and/or delete the photo as well.
+
+Writing an uncompressed TIFF file to the CF card will take roughly 30 seconds. You can do the same pause and delete with TIFFs as well, though you'll have to wait about 10 seconds before you can do so.
+
+The Coolpix 885 doesn't have as many choices for image resolution and quality as its more expensive sibling, the Coolpix 995. 
+
+The CP885 is almost exactly like the CP995 when it comes to manual controls -- in other words, it's got tons of them! 
+
+Let's take a look at the extensive menu system, which contains all those manual controls. The menu system (in CSM mode only) can be overwhelming at first with lots of weird icons, but you get used to it. Take a deep breath - here goes.
+
+White balance (Auto, Preset, Fine, Incandescent, Fluorescent, Cloudy, Speedlight) - for many of these, you can do fine adjustments using the command dial, from -3 to +3. For fluorescent, you can choose between 3 different selections. You can also shoot a white piece of paper to choose what you want to be white, using preset mode.
+
+
+Metering (Matrix, Spot, Center-weighted, Spot AF Area)- Spot AF Area measures the exposure at the point which you choose to focus on 
+Continuous (Single, Continuous, Multi-shot 16, VGA Sequence, Ultra HS) 
+Continuous mode shoots at 1.5 frames/sec until memory buffer becomes full 
+Multi-shot 16 takes 16 shots in a row and puts them into one Full sized image (like a collage) 
+VGA Sequence - Takes 640 x 480 sized images at 2 frames/sec until the buffer is full 
+Ultra HS - Takes 320 x 240 sized images at 30 frames/sec for 70 frames
+
+
+Best Shot Selector (on/off) - take up to 10 pictures, and camera picks the sharpest one and saves it. Best for macro and low-light shots.
+
+
+Image Adjustment (Auto, Normal, Contrast, Brightness, Black & White)
+
+
+Image Sharpening (Auto, normal, high, low, off)
+
+
+Lens - select your accessory lens here
+
+
+Image Quality - see chart above
+
+
+Sensitivity / ISO (Auto, 100, 200, 400)
+
+
+Exposure options (AE Lock, EXP +/-. Exposure mode) 
+Exposure mode (Program, Manual) - described earlier
+
+AE Lock - locks exposure settings after the first shot. Useful for panoramas. 
+Exposure compensation (-2.0EV to +2.0EV, in 1/3EV increments)
+
+
+Focus Options (AF Area Mode, Auto-Focus Mode, Focus Confirmation, Distance Units) 
+AF Area Mode - in manual mode, you can choose one of 5 areas on the LCD that you want the camera to focus on 
+Auto-Focus Mode - you choose whether camera is focusing constantly, or just when you press the shutter release halfway 
+Focus Confirmation - If turned on, the outline of the in-focus area of the image is emphasized on the LCD 
+Distance Units (meters/feet)
+
+
+Auto Bracketing (on/off/WB bracketing) 
+On - take 3 or 5 continuous shots with different exposure compensation values 
+WB Bracketing - takes 3 shots: one with chosen white balance, one reddish image, and one bluish image. I haven't seen this feature on any other camera.
+
+
+Noise reduction (on/off) - helps to reduced hot pixels in long exposure shots. See night shot test below for examples. Note that turning this on doubles the time it takes to write the image to the card. 
+There's also the usual setup menu with the basics settings that need not be discussed here.
+
+Like the Coolpix 995, the 885 is adept at macro shots. You can get as close as 4cm in macro mode on the CP885.
+
+It was an exceptionally clear night when I took the above night shot, so it came out nicely. You can even see my other photo-taking spot, Twin Peaks, just left of the Transamerica Pyramid.
+
+One word of warning: I took this shot in Scene Mode as well, and it moved the ISO up to a point where the image was very, very noisy. My advice: throw it in CSM mode and set the ISO to 100, and choose the settings yourself. It made a HUGE difference. 
+
+Since the Coolpix 885 is *almost* a 995, you can probably guess what I'm going to say: the photo quality is excellent. The color was accurate and the images were quite sharp. I didn't have any problem with chromatic aberrations while using it, either. Take a look at the photo gallery to see for yourself.
+

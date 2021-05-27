@@ -1,0 +1,63 @@
+Using the Sony DSC-F717
+
+
+Record Mode
+
+Since the lens is fully enclosed and doesn't need to extend, the F717 is ready to go in just 1.6 seconds after you turn it on (this is faster than the F707). When you depress the shutter release halfway, the focus is locked in a second or so (depending on what the subject is and the focal length). Depressing the button all the way results in the photo being taken with almost no lag.
+
+Shot-to-shot speed has been greatly improved on the F717. This is one of those cameras where you can really shoot as fast as you can compose. One area which has not improved is the amount of time you'll wait (nearly a minute) for the camera to record a TIFF image.
+
+Another new feature on the F717 is a live histogram in record mode. It is disabled at the 3:2 ratio image size, though.
+
+Sony has brought the F717 up to date with their latest noise reduction systems (there are three of them). There's one for chrominance (Clear Color NR), another for luminance (Luminance NR), and finally, one for noise (Slow Shutter NR). When shutter speeds drop below 1/25 sec, the "Slow Shutter NR" noise reduction mode kicks in. This results in a longer wait for the image to be recorded, but you'll be rewarded with a less noisy image.
+
+Like I said at the beginning of the review, the 32MB Stick is too small, so you'll probably want to pick up a larger one.
+
+The menu system has not changed on the F717. It's still the same overlay-style menu that all Sony cameras use. Let's take a look at the various menu items and what they do:
+
+ISO (Auto, 100, 200, 400, 800) - the 800 option is new! 
+Image Size (2560 x 1920, 2560 (3:2), 2048 x 1536, 1280 x 960, 640 x 480) 
+Photo Quality (Fine, Standard) 
+Rec Mode 
+TIFF: uncompressed large image - only one fits on 16MB Stick. 
+Voice: Records an audio file along with a still image 
+E-mail: Records a 320 x 240 image in addition to the recorded image 
+Exposure bracketing: three shots in a row with different exposure compensation values (chosen in the setup menu) 
+Burst3: Records three images continuously, at 2 frames/sec. Too bad the burst mode wasn't improved upon on the 717. 
+Flash Level (High, Normal, Low) 
+Photo Effects (Solarize, Sepia, Negative Art, Off) 
+Sharpness (-2 to +2) 
+
+The Setup menu has been expanded. Here are the interesting items:
+
+Moving Image (MPEG Movie, ClipMotion, Multi Burst) - explained later 
+Date/Time (Off, date, day & time) - imprint date on images 
+Digital Zoom (on/off) 
+Redeye reduction (on/off) 
+Hologram AF (Auto, off) 
+Conversion lens (on/off) 
+Expanded Focus (on/off) - whether or not the image is enlarged in manual focus 
+Bracket Step (1.0EV, 0.7EV, 0.3EV) - for auto bracketing function 
+Hot shoe (on/off) 
+Zoom ring setup - choose which way you rotate the zoom ring for wide/tele 
+Memory Stick Tool (Card format, create/change folder) - a better folder management system 
+LCD brightness (Bright, normal, dark) 
+LCD/EVF backlight (Normal, bright) 
+File numbering (Series, reset) 
+USB connect (Normal, PTP) 
+Video Out (NTSC, PAL) 
+Language (English, Japanese) 
+Enough about menus, let's talk about photo quality.
+
+The night test shot came out very well, but isn't perfect. It's soft, and there is some noise that reduces some detail in the image. Take a look at the sculptures just above the lower columns (I believe this is called the pediment) to see what I mean. Some chromatic aberrations can also be spotted.
+
+The F717 has four different ISO values, so I thought I'd take this same shot at each ISO value. I've cropped out the same piece in each image for easy comparison.
+
+All images were taken at 1/3 second. After cropping they were resaved at "maximum" quality in Photoshop, so JPEG compression shouldn't affect what you see here.
+
+The DSC-F717 did a nice job with our 3" tall macro subject. The colors look good (very saturated, especially the reds) and the image is well focused, even the nose (though I had to use aperture priority mode to get that in focus). It's a bit soft, but certainly acceptable to me. You'll be able to get as close as 2 cm at wide-angle, and 90 cm at telephoto, while in macro mode.
+
+The F717's pop-up flash is well away from the lens, meaning redeye won't be a problem. My example above should illustrate that. This image was slightly enlarged so you can see the detail.
+
+Photos taken by the F717 are some of the best you'll find. The camera has incredible resolution, good sharpness, mostly accurate color, and low noise. It's not perfect, but as good or better than almost everything else. Images are sharp, but in the corners it may seem soft in some situations. Colors are good are saturated -- too much so in the case of reds. There is a bit of noise in the sky and in shadows, but as I said, it's no worse than any other high end digicam out there. Chromatic aberrations (purple fringing) were rarely seen in my tests. Take a look at our photo gallery and judge the F717's image quality for yourself!
+

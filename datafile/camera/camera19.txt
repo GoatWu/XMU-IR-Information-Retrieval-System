@@ -1,0 +1,42 @@
+Using the Coolpix 880
+
+
+I'm going to discuss record mode (with the movie function) and playback mode in this section.
+
+Record Mode
+
+The Coolpix 880 takes about four seconds to extend the lens and "boot up" before you can start taking photos. Shot-to-shot speed is also in the four second range. It takes probably half a second for the camera to focus when you first depress the shutter release, and another half second for the picture to be taken. It's definitely not as fast as the Coolpix 990, but then again I wouldn't expect that for $200 less.
+
+The menus are extensive, and give you complete control over all the cameras functions. Here's a rundown of everything you can change:
+
+White balance (Auto, manual, sunlight, incandescent, fluorescent, cloudy, speedlight) - in many cases, there are fine adjustments for each of these. 
+Metering (matrix, spot, center-weighted, Spot AF Area) - in Spot AF Area, the camera only measures the light where the camera is currently focused. 
+Continuous shooting (single, continuous, Multi-shot 16, VGA sequence, Ultra HS, Movie) -- more on this below 
+Best Shot selector (on/off) - this will take multiple photos as long as you keep the shutter release button down, and it will pick the best one. 
+Lens - for using lens adapters 
+Image adjustment (Auto, normal, more contrast, less contrast, lighten image, darken image, black and white) 
+Image sharpening (auto, high, normal, low, off) 
+Quality/Size (hi, fine, normal, basic / full, XGA, VGA) - "Hi" here is the uncompressed TIFF mode 
+Sensitivity (auto, 100, 200, 400) - you can also change this using the buttons on the back of the camera 
+Exposure options (AE lock, Auto bracketing, exposure compensation) - all useful options 
+Focus options (AF Area Mode, Auto-Focus mode, Focus Confirmation) - AF Area Mode lets you pick the spot in the photo where the camera focuses. Focus Confirmation visually shows you what the camera is focusing on. 
+Other setup functions (folders, card format, date/time) 
+
+The Coolpix 880 gives you a number of choices for continuous shooting mode, most of which I've covered in previous reviews. Here are your choices in detail:
+
+Continuous - three photos every two seconds while the shutter release is held down 
+Multi-Shot 16 - takes 16 images and puts them into a collage. 
+VGA sequence - takes 2 photos/second at 640x480 
+Ultra HS - takes 70 photos at 320 x 240 and dumps them into a separate "folder" on the memory card 
+Movie - record a Quicktime movie for up to 40 seconds at 320 x 240 with no sound. 
+You can see some samples of a few of these on the Coolpix 950 gallery page from May 1999 (has it been that long?).
+
+Speaking of movie mode, above you'll find a sample. I must say that Sony spoils you with their movie mode-- the sound and video quality is great, though only for 15 seconds. While you can record an impressive 40 seconds of Quicktime video on the Coolpix 880, it'll be silent, since there's no microphone on the camera.
+
+Macro mode is impressive on this camera (it is a Coolpix after all). You can get as close as 1.6" (4 cm) on this camera. In the shot above, I was able to get decent white balance by using the manual WB mode.
+
+Good weather made for a nice shot from Twin Peaks. While it could be sharper (using the camera's sharpening menu, or Photoshop), there aren't any mysterious stars in the sky that the camera created. Since the camera gives you full control over aperture and shutter speed, you can really experiment to make these shots work. Since it's usually pretty cold up there, there's little time for that.
+
+Overall, the photo quality was exceptional. Don't take my word for it-- check out the gallery and decide for yourself.
+
+

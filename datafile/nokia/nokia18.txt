@@ -1,0 +1,22 @@
+Plus GSM of Poland has launched multimedia messaging services (MMS) with Nokia as the supplier of its multimedia messaging solution 
+
+(August 29, 2002) 
+
+
+
+  
+Nokia has signed a contract with Polish operator Polkomtel, which operates under the brand name Plus GSM, to supply the Nokia solution for multimedia messaging. The system brings next-generation multimedia-based services to Plus GSM's mobile subscribers.
+ 
+With these new multimedia messaging services (MMS), mobile subscribers are able to send exciting new content directly from their MMS phone to another MMS phone or to e-mail. MMS is the next evolutionary step after text messaging (SMS), making it a familiar and easy-to-use service for subscribers. In addition to the text content of SMS, multimedia messages can contain images, graphics, voice, and audio clips.
+ 
+Under the agreement, Nokia has supplied its multimedia messaging solution, including the Nokia Multimedia Messaging Service Center and Nokia Multimedia Terminal Gateway servers. In addition, Nokia has provided implementation and integration services and the Nokia KeyCareTM Package, which maintains the competitiveness of the MMS solution.
+ 
+"A commercial launch was made during the last week of June and includes the possibility of e-mail interworking and receiving messages through a web page for subscribers who do not yet have MMS-enabled handsets," says Robert Krawczyk, Board Member and Director of Marketing and Sales at Plus GSM. "Our customers are able to compose and send media-rich messages to one another, and will soon be able to choose to have value-added messaging content delivered to their mobile devices. Plus GSM believes the greater functionality of MMS will be the starting point of a broader customer experience that will pave the way for 3G usage."
+ 
+Plus GSM was the first operator in Poland to launch MMS commercially. The price is 2 PLN per MMS, and the size of MMS can be up to 50 KB. The service is available to all subscribers without any activation or monthly fees. The charge is only for messages sent.
+ 
+Plus GSM subscribers can send MMS to mobiles and e-mail accounts. If a subscriber does not have an MMS phone, he or she is receives an SMS with information containing the name of the WWW page: foto.plusgsm.pl, and the unique login and password to that particular MMS.
+ 
+"Nokia's Multimedia Messaging system offers Plus GSM a solid foundation for launching a whole range of multimedia services, and we are very pleased to extend our long lasting co-operation with Polkomtel into this new exciting area," says Konrad Pancewicz, Account Manager, Nokia Poland. "Nokia offers a complete end-to-end solution with intelligent applications, support for legacy phones, middleware and MMS-enabled mobile terminals. With the Nokia solution operators can offer their customers numerous revenue-generating services and applications."
+ 
+Nokia is the world leader in mobile communications.  Backed by its experience, innovation, user-friendliness and secure solutions, the company has become the leading supplier of mobile phones and a leading supplier of mobile, fixed broadband and IP networks.  By adding mobility to the Internet, Nokia creates new opportunities for companies and further enriches the daily lives of people.  Nokia is one of the most broadly held companies in the world with listings on six major exchanges.  

@@ -1,0 +1,48 @@
+Using the Sony DSC-S85
+
+
+Record Mode
+
+The camera turns on with much fanfare and takes about four seconds to get ready to take photos. When you depress the shutter release button halfway, it can take up to a second to lock focus. When you press the button all the way down, the photo is taken with no delay. Recycle time is very quick on the S85 -- about two seconds -- which is impressive considering the size of these images. Writing a TIFF file takes considerably longer, locking up the camera for nearly 40 seconds.
+
+The zoom controls were fine, though the lens continued to move a bit after the button is released.
+
+The S85's menu system is pretty simple, since many functions are buttons rather than menu choices. Let's take a look at the various menu items and what they do:
+
+White Balance (One push, Auto, Indoor, Outdoor) 
+ISO (Auto, 100, 200, 400) 
+Image Size (2272 x 1704, 2272 (3:2), 1600 x 1200, 1280 x 960, 640 x 480) 
+Photo Quality (Fine, Standard) 
+Rec Mode (TIFF, Text, Voice, E-Mail, Exposure Bracketing, Burst3, Normal) -- more on this below 
+Flash Level (High, Normal, Low) 
+Photo Effects (Solarize, Black & White Sepia, Negative Art, Off) 
+Sharpness (-2 to +2) 
+The "one push" white balance mode is indeed a manual WB mode. Shoot a piece of white paper or whatever you want to be white, and you'll be able to get accurate color in almost any lighting. 
+
+Here's more details on those Rec Mode choices:
+
+TIFF: uncompressed large image - only one fits on 16MB Stick. 
+Text: records a GIF in black & white 
+Voice: Records an audio file along with a still image 
+E-mail: Records a 320 x 240 image in addition to the recorded image 
+Exposure bracketing: three shots in a row with different exposure compensation values. This feature is new to the S85. 
+Burst3: Records three images continuously, at a interval of about 0.6 sec. There is no "real" continuous shooting mode on this camera, due to a lack of buffer memory. 
+In Setup Mode, there are a number of other options available. Here are the interesting ones:
+
+Scene Mode Selection (twilight, landscape, portrait) 
+Moving Image (MPEG Movie, ClipMotion) - explained later 
+Digital Zoom (on/off) 
+Bracket Step (1.0EV, 0.7EV, 0.3EV) - for auto bracketing function 
+Red-eye reduction (on/off) 
+AF illuminator (on/off) 
+File numbering (series, reset) 
+Conversion lens (on/off) 
+LCD brightness 
+USB connect (normal, PTP) - put it in PTP mode for Mac OS X only. 
+
+It took me many tries to get a good macro shot, but I finally got the sample you see above. I tried auto-bracketing, manual ISO, and finally succeeded in aperture priority mode (F8.0) with manual white balance. You can shoot as close as 4cm in wide-angle, or 20cm in full telephoto, in macro mode on the S85.
+
+The camera was about average in the nightshot test. The color is a bit off on the lights (though messing with White Balance settings may have helped), and it's a bit dark (of course, so is the SF skyline, lately). Aside from that, there are no "unnatural stars" in the sky or other noise.
+
+The photo quality on the S85 was excellent, with accurate color, no major chromatic aberrations, and good sharpness. Take a look at our photo gallery to judge for yourself.
+

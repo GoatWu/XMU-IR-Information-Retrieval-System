@@ -1,0 +1,55 @@
+Using the Sony MVC-CD250
+
+
+Record Mode
+
+Startup times for the CD250 can really vary. Sometimes it's almost instant (2 secs), other times it can take much longer to read the CD. Once things get started, though, the camera is responsive. When you depress the shutter release button halfway, the CD250 locks focus in about a second. There is no noticeable shutter lag on the camera.
+
+Sony has obviously put lots of buffer memory in the CD250, to alleviate the slowness associated with the CD-R/RW format. As such, the delay between shots is minimal -- about a second or so. If you take a TIFF image, the story is different -- expect the camera to be inoperable for over 40 seconds while the file is saved to the CD.
+
+The newest Sony cameras have three noise reduction systems to make your pictures better. There's one for chrominance (Clear Color NR), another for luminance, and finally, one for noise (Slow Shutter NR). When shutter speeds drop below 1/2 sec, the "Slow Shutter NR" noise reduction mode kicks in. This results in a longer wait for the image to be recorded, but you'll be rewarded with a less noisy image.
+
+One quick note about longer exposures on the CD250 -- while it can go as slow as 2 seconds, that's only in Twilight mode. In normal record mode, the slowest shutter speed used is 1/30 sec. By contrast, the CD400 has full control of the shutter speed and aperture.
+
+The CD Mavicas use the familiar Sony "overlay-style" menu. It's easy enough to figure out. Here's what you'll find in the menus:
+
+Exposure compensation (-2EV to +2EV in 1/3EV increments) 
+Focus (Multi Area AF, Center AF, 0.5, 1, 3, 7 meters, infinity) - more below 
+White Balance (Auto, Daylight, Cloudy, Fluorescent, Incandescent) - lots more options here than on old models 
+Spot Metering (on/off) 
+ISO (Auto, 100, 200, 400) 
+Image Size (1600 x 1200, 1600 (3:2), 1280 x 960, 640 x 480) 
+Photo Quality (Fine, Standard) 
+Rec Mode (TIFF, Voice, E-Mail, Burst 3, Normal) 
+Flash Level (High, Normal, Low) 
+Photo Effects (Solarize, Black & White, Sepia, Negative Art, Off) 
+Sharpness (-2 to +2) 
+The white balance mode has been expanded on the new CD Mavicas. No more indoor, outdoor, or hold choices. The CD250 lacks the manual white balance found on the CD400. The focus menu is a bit different as well. You can choose between 3 point auto focus (called Multi Area AF; the camera chooses the subject, not you), or Center-point focus. If you want to manually focus, you can choose one of the preset distances. Another thing missing from the CD250 compared with the CD400: no exposure bracketing.
+
+Here's more details on those Rec Mode choices:
+
+TIFF: uncompressed large image 
+Voice: Records an audio file along with a still image 
+E-mail: Records a 320 x 240 image in addition to the recorded image 
+Burst3: Records three images continuously at 2 frames/sec 
+
+In Setup Mode, there are a number of other options available. Here are the interesting ones:
+
+Disc Tool (finalize, format, initialize, unfinalize) - handles all those CD functions I described earlier. 
+Moving Image (MPEG Movie, ClipMotion, Multi-Burst) - explained below 
+Date/Time (Day & Time, Date, Off) - whether date/time is printed on your photos 
+Digital Zoom (on/off) 
+Redeye reduction (on/off) 
+AF illuminator (on/off) 
+File numbering (series, reset) 
+Confirm before write (on/off) - this is new! Review a picture (and delete it if necessary) before it's saved to the CD. 
+The Moving Image feature has a new addition: Multi-Burst mode. This is similar to a feature found on the Nikon Coolpix cameras. It will take 16 shots in a row and put it into one 1280 x 960. I guess it's good for analyzing your golf swing. You get to choose from several between-frame intervals -- 1/7.5 sec, 1/15 sec, and 1/30 sec. There is also a movie-like feature called ClipMotion which will take 10 images and put them into an animated GIF for you. 
+
+The CD250 produced a well-exposed, low noise photo in our night shot test. Despite having a slower lens and no manual control over the shutter speed, the camera's night scene feature still pulled off a nice shot.
+
+Like the CD400, the CD250 did a fine job in our macro test. The subject's colors look good and the image is fairly sharp. The minimum focus distance in macro mode is 3 cm (1.188 inches) at wide-angle, and 80 cm (31.5 inches) at telephoto.
+
+Above is our red-eye test. The camera's red-eye reduction system didn't totally eliminate this phenomenon. It's visible, but not horrible. Many software products can remove red-eye. There was a fair amount of red channel noise in this test shot -- you can see a bit of it here. (Note that this image was blown up 200% so you can see the details.)
+
+On the whole, the CD250 delivers very good quality photos. My test shots were nicely exposed, with accurate color. Chromatic aberrations (purple fringing) were not a major problem. But don't take my word for it, check out the photo gallery and judge for yourself!
+

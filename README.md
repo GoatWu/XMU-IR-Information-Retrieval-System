@@ -39,8 +39,8 @@
 编译时，由于代码使用了 lambda 函数（匿名函数）等 C++11 特性，需加入编译选项 `-std=c++11`：
 
 ```bash
-g++ server.cpp -std=c++11 server
-g++ client.cpp -std=c++11 client
+g++ server.cpp -std=c++11 -o server
+g++ client.cpp -std=c++11 -o client
 ```
 
 运行时，打开两个终端窗口，代表服务端与客户端：
